@@ -2,3 +2,5 @@
 
 ## Authors 
 Freja, Ida, Adam
+
+#ida joined
